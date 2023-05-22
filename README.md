@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SIDHARTHAN 
-- 👀 I’m interested in dEVoPS
-- 🌱 I’m currently learning eVERYTHING
+- 👀 I’m interested in DevOps culture
+- 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on sharing informations
 - 📫 madhusidhu659@gmail.com
 
